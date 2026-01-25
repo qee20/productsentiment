@@ -1,0 +1,101 @@
+{
+  "Battery": [
+    "baterai",
+    "daya",
+    "ngecas",
+    "charging",
+    "batre"
+  ],
+  "Camera": [
+    "kamera",
+    "foto",
+    "video",
+    "selfie",
+    "potret"
+  ],
+  "Display": [
+    "layar",
+    "screen",
+    "display",
+    "resolusi",
+    "refresh"
+  ],
+  "Performance": [
+    "performa",
+    "cepat",
+    "lambat",
+    "lag",
+    "game"
+  ],
+  "Price": [
+    "harga",
+    "mahal",
+    "murah",
+    "terjangkau",
+    "worth"
+  ],
+  "Design": [
+    "desain",
+    "bodi",
+    "tipis",
+    "ringan",
+    "warna"
+  ],
+  "Software": [
+    "software",
+    "android",
+    "update",
+    "ui",
+    "aplikasi"
+  ],
+  "Audio": [
+    "suara",
+    "speaker",
+    "audio",
+    "headphone",
+    "volume"
+  ],
+  "Network": [
+    "sinyal",
+    "jaringan",
+    "5g",
+    "4g",
+    "lte",
+    "sim",
+    "dual sim"
+  ],
+  "Connectivity": [
+    "wifi",
+    "bluetooth",
+    "nfc",
+    "usb",
+    "hotspot"
+  ],
+  "Storage": [
+    "memori",
+    "storage",
+    "penyimpanan",
+    "ram",
+    "internal"
+  ],
+  "Security": [
+    "fingerprint",
+    "sidik jari",
+    "face unlock",
+    "keamanan"
+  ],
+  "BuildQuality": [
+    "material",
+    "kaca",
+    "plastik",
+    "frame",
+    "kokoh"
+  ],
+  "Features": [
+    "fitur",
+    "nfc",
+    "infrared",
+    "samsung pay",
+    "extra"
+  ]
+}
