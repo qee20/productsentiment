@@ -1,0 +1,34 @@
+{
+  "total_comments": 7108,
+  "comments_with_aspects": 2298,
+  "coverage_percentage": 32.329769274057405,
+  "total_aspect_mentions": 3432,
+  "avg_aspects_per_comment": 1.4934725848563968,
+  "aspect_frequency": {
+    "Performance": 538,
+    "Price": 452,
+    "Camera": 441,
+    "Features": 285,
+    "Software": 274,
+    "Design": 247,
+    "Battery": 234,
+    "Audio": 225,
+    "Display": 189,
+    "Connectivity": 180,
+    "Storage": 171,
+    "BuildQuality": 101,
+    "Network": 76,
+    "Security": 19
+  },
+  "aspect_count_distribution": {
+    "1": 1529,
+    "2": 540,
+    "3": 150,
+    "4": 46,
+    "5": 18,
+    "6": 9,
+    "7": 4,
+    "8": 1,
+    "9": 1
+  }
+}
