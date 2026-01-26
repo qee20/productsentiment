@@ -1,0 +1,122 @@
+{
+  "Q1 (Month 1-3)": {
+    "focus": "CRITICAL FIXES & STABILIZATION",
+    "objectives": [
+      "Eliminate major pain points",
+      "Meet basic customer expectations",
+      "Stabilize product performance"
+    ],
+    "features": [
+      {
+        "feature": "Battery",
+        "priority": "CRITICAL",
+        "objective": "Reduce negative mentions from 72.5% to <30%",
+        "resources": 2,
+        "success_metric": "Customer complaints ↓ 42.5%"
+      },
+      {
+        "feature": "Price",
+        "priority": "CRITICAL",
+        "objective": "Reduce negative mentions from 75.3% to <30%",
+        "resources": 2,
+        "success_metric": "Customer complaints ↓ 45.3%"
+      },
+      {
+        "feature": "Security",
+        "priority": "CRITICAL",
+        "objective": "Reduce negative mentions from 85.4% to <30%",
+        "resources": 2,
+        "success_metric": "Customer complaints ↓ 55.4%"
+      }
+    ],
+    "resources_required": 6,
+    "success_metrics": [
+      "≥30% reduction in negative mentions for MUST-BE features",
+      "Customer satisfaction score increase by 20 points",
+      "Reduction in support tickets"
+    ]
+  },
+  "Q2 (Month 4-6)": {
+    "focus": "COMPETITIVE ADVANTAGE",
+    "objectives": [
+      "Improve key performance metrics",
+      "Catch up with competitors",
+      "Build reliable core features"
+    ],
+    "features": [
+      {
+        "feature": "Camera",
+        "priority": "HIGH",
+        "objective": "Increase satisfaction gap from +23.5 to +48.5",
+        "resources": 1.5,
+        "success_metric": "Satisfaction gap ↑ 25 points"
+      },
+      {
+        "feature": "Display",
+        "priority": "HIGH",
+        "objective": "Increase satisfaction gap from +13.9 to +38.9",
+        "resources": 1.5,
+        "success_metric": "Satisfaction gap ↑ 25 points"
+      },
+      {
+        "feature": "Performance",
+        "priority": "HIGH",
+        "objective": "Increase satisfaction gap from +7.7 to +32.7",
+        "resources": 1.5,
+        "success_metric": "Satisfaction gap ↑ 25 points"
+      }
+    ],
+    "resources_required": 4.5,
+    "success_metrics": [
+      "Positive-Negative gap improvement ≥20 points",
+      "Market share increase by 5%",
+      "Improved review scores"
+    ]
+  },
+  "Q3 (Month 7-9)": {
+    "focus": "DIFFERENTIATION & INNOVATION",
+    "objectives": [
+      "Create unique selling points",
+      "Delight customers with innovative features",
+      "Build brand loyalty"
+    ],
+    "features": [
+      {
+        "feature": "Design",
+        "priority": "MEDIUM",
+        "objective": "Maintain high positive rate (78.4%) and add innovative features",
+        "resources": 1,
+        "success_metric": "Feature adoption rate ≥60%"
+      }
+    ],
+    "resources_required": 1,
+    "success_metrics": [
+      "Feature adoption rate ≥60%",
+      "Positive social media mentions increase by 30%",
+      "Customer referral rate increase"
+    ]
+  },
+  "Q4 (Month 10-12)": {
+    "focus": "OPTIMIZATION & NEXT GENERATION",
+    "objectives": [
+      "Technical excellence",
+      "Prepare for next product generation",
+      "Process improvement"
+    ],
+    "features": [
+      {
+        "feature": "Technical debt & optimization",
+        "priority": "MEDIUM",
+        "objective": "Code refactoring, performance optimization, bug fixes",
+        "resources": 2,
+        "success_metric": "System performance improvement by 20%"
+      }
+    ],
+    "resources_required": 2,
+    "success_metrics": [
+      "Reduced bug rate by 40%",
+      "Improved development velocity",
+      "Technical debt reduction"
+    ]
+  }
+}
