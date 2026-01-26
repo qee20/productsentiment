@@ -1,0 +1,185 @@
+{
+  "generated_date": "2026-01-26 03:23:07",
+  "total_aspects_analyzed": 14,
+  "kano_distribution": {
+    "MIXED": 13,
+    "REVERSE": 1
+  },
+  "recommendations_by_priority": {
+    "MUST-BE": [],
+    "ONE-DIMENSIONAL": [],
+    "ATTRACTIVE": [],
+    "INDIFFERENT": [],
+    "REVERSE": []
+  },
+  "detailed_results": [
+    {
+      "aspect": "Performance",
+      "total_mentions": 538,
+      "positive": 155,
+      "negative": 192,
+      "neutral": 191,
+      "positive_pct": 28.810408921933085,
+      "negative_pct": 35.687732342007436,
+      "neutral_pct": 35.501858736059475,
+      "kano_category": "MIXED",
+      "sample_comments": "tambahin honor of kings dong om sebagai salah satu testnya graphic nya lebih kompleks biar keliatan  | aduh sayang belum bisa bypass charging jadi gak bagus kalo main game sambil cass | ​alvianap iya tautapi lebih baik ga sambil casbatre nya kan besarga harus nunggu habis batre buat ma"
+    },
+    {
+      "aspect": "Price",
+      "total_mentions": 452,
+      "positive": 183,
+      "negative": 130,
+      "neutral": 139,
+      "positive_pct": 40.48672566371682,
+      "negative_pct": 28.761061946902654,
+      "neutral_pct": 30.752212389380528,
+      "kano_category": "MIXED",
+      "sample_comments": "thn depan auto naik harga dan ghoib | untuk jangka panjang apakah poco f ini worth it | buru buru checkout akhir tahun sebelum naik harga di"
+    },
+    {
+      "aspect": "Camera",
+      "total_mentions": 441,
+      "positive": 125,
+      "negative": 93,
+      "neutral": 223,
+      "positive_pct": 28.34467120181406,
+      "negative_pct": 21.08843537414966,
+      "neutral_pct": 50.56689342403629,
+      "kano_category": "MIXED",
+      "sample_comments": "sama takut nya seri kameranya model kompor gk suka aja model hp kamera besar | rekam video sambil jalan masih kedutan heran | ex user poco f emang kenceng sih gila tapi yang bikin ga nyaman ui nya sok ngatur ga demen gue muter"
+    },
+    {
+      "aspect": "Features",
+      "total_mentions": 285,
+      "positive": 38,
+      "negative": 77,
+      "neutral": 170,
+      "positive_pct": 13.333333333333334,
+      "negative_pct": 27.017543859649123,
+      "neutral_pct": 59.64912280701754,
+      "kano_category": "MIXED",
+      "sample_comments": "aduh sayang belum bisa bypass charging jadi gak bagus kalo main game sambil cass | ​syukransyukranp siya tapi kalo ada bypass chargingnya kan gak ngaruh ke baterai karna daya listrik  | walaupun udh beli nih hp tapi gw rela nambah k buat bypass charging sayangnya ga ada"
+    },
+    {
+      "aspect": "Software",
+      "total_mentions": 274,
+      "positive": 35,
+      "negative": 97,
+      "neutral": 142,
+      "positive_pct": 12.773722627737227,
+      "negative_pct": 35.4014598540146,
+      "neutral_pct": 51.82481751824818,
+      "kano_category": "MIXED",
+      "sample_comments": "stabilizer masuk ke hardware atau software | ex user poco f emang kenceng sih gila tapi yang bikin ga nyaman ui nya sok ngatur ga demen gue muter | update selanjutnya dari poco f kudu dilimit ini bahaya kalau overheat terus terusan keawetan hardwar"
+    },
+    {
+      "aspect": "Design",
+      "total_mentions": 247,
+      "positive": 116,
+      "negative": 68,
+      "neutral": 63,
+      "positive_pct": 46.963562753036435,
+      "negative_pct": 27.530364372469634,
+      "neutral_pct": 25.506072874493928,
+      "kano_category": "MIXED",
+      "sample_comments": "entah kenapa desain hp ini ngengiten saya poco f dulu | sama takut nya seri kameranya model kompor gk suka aja model hp kamera besar | aalfianosd wkwk sama tadi niatnya pengen poco paling terbaru kaya f pas liat model kameranya langsun"
+    },
+    {
+      "aspect": "Battery",
+      "total_mentions": 234,
+      "positive": 34,
+      "negative": 91,
+      "neutral": 109,
+      "positive_pct": 14.529914529914532,
+      "negative_pct": 38.88888888888889,
+      "neutral_pct": 46.58119658119658,
+      "kano_category": "MIXED",
+      "sample_comments": "aduh sayang belum bisa bypass charging jadi gak bagus kalo main game sambil cass | jangan main sambil ngecasga baik buat kesehatan baterai | ​syukransyukranp siya tapi kalo ada bypass chargingnya kan gak ngaruh ke baterai karna daya listrik "
+    },
+    {
+      "aspect": "Audio",
+      "total_mentions": 225,
+      "positive": 26,
+      "negative": 106,
+      "neutral": 93,
+      "positive_pct": 11.555555555555555,
+      "negative_pct": 47.11111111111111,
+      "neutral_pct": 41.333333333333336,
+      "kano_category": "REVERSE",
+      "sample_comments": "go blok​b bagusyanuarf | bg benar kah suara dari poco f suara speaker atas nya bindeng gak seimbang yang bawah suara lebih be | kalo aku kok dpt yg seimbang ya"
+    },
+    {
+      "aspect": "Display",
+      "total_mentions": 189,
+      "positive": 41,
+      "negative": 57,
+      "neutral": 91,
+      "positive_pct": 21.693121693121693,
+      "negative_pct": 30.158730158730158,
+      "neutral_pct": 48.148148148148145,
+      "kano_category": "MIXED",
+      "sample_comments": "om coba minecraft java pake shders derrative pasti nggak kuat poco f | tambahin honor of kings dong om sebagai salah satu testnya graphic nya lebih kompleks biar keliatan  | nanggung ni resolusi ultrawide bisa mp sm record k cipsetny udh mendukung"
+    },
+    {
+      "aspect": "Connectivity",
+      "total_mentions": 180,
+      "positive": 26,
+      "negative": 30,
+      "neutral": 124,
+      "positive_pct": 14.444444444444443,
+      "negative_pct": 16.666666666666664,
+      "neutral_pct": 68.88888888888889,
+      "kano_category": "MIXED",
+      "sample_comments": "lucu sih di beberapa komunitas karna skor antutunya kurang dari claim brandnya sampek dibawa ke serv | poco mantapsampe skarang pake x nfc awet allhmdllh pemakain rapih | kedepannya untuk test gaming pake wuthering waves bang sebagai patokan genshin udah terlalu ringan"
+    },
+    {
+      "aspect": "Storage",
+      "total_mentions": 171,
+      "positive": 34,
+      "negative": 66,
+      "neutral": 71,
+      "positive_pct": 19.883040935672515,
+      "negative_pct": 38.59649122807017,
+      "neutral_pct": 41.52046783625731,
+      "kano_category": "MIXED",
+      "sample_comments": "buat saya pribadi pengguna samsung bertahun tahun saya ucapkan selamat tinggal samsung yg pelit chip | kameranya jelek untuk harga sgtu setara infinix harga jt | kapan give away bang hp saya masih ram gb nih bang"
+    },
+    {
+      "aspect": "BuildQuality",
+      "total_mentions": 101,
+      "positive": 21,
+      "negative": 30,
+      "neutral": 50,
+      "positive_pct": 20.792079207920793,
+      "negative_pct": 29.7029702970297,
+      "neutral_pct": 49.504950495049506,
+      "kano_category": "MIXED",
+      "sample_comments": "lah sama buat libas game yg sekarang aja masih enteng ini backdoor aja sama frame doang paling yg ja | resiko body kaca dari zaman dinasti ming juga gitu bro overheat | dinasti ming"
+    },
+    {
+      "aspect": "Network",
+      "total_mentions": 76,
+      "positive": 12,
+      "negative": 25,
+      "neutral": 39,
+      "positive_pct": 15.789473684210526,
+      "negative_pct": 32.89473684210527,
+      "neutral_pct": 51.31578947368421,
+      "kano_category": "MIXED",
+      "sample_comments": "sama bang x gt ini otw beli f lagi dalam pengiriman | ini hp klo di cas dalam keadaan mati emg selalu nyala sendiri kah kak jagat atao ada settingannya sa | pernah pake poco f masalahnya di sinyal hp yg suka hilang sendiri di cek imei gak terdetek bawa ke s"
+    },
+    {
+      "aspect": "Security",
+      "total_mentions": 19,
+      "positive": 3,
+      "negative": 6,
+      "neutral": 10,
+      "positive_pct": 15.789473684210526,
+      "negative_pct": 31.57894736842105,
+      "neutral_pct": 52.63157894736842,
+      "kano_category": "MIXED",
+      "sample_comments": "cuma yang gua gak suka dari poco ini yaitu blotware nya bejibun | ​ahmadyusuf bawaan bang tapi ngecas bisa sampai jam | ​ahmadyusuf sudah berkalikali sih bang di restart di cas dalam kondisi mati tapi ya tetep may kubawa"
+    }
+  ]
+}
