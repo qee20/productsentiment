@@ -14,73 +14,73 @@ EXPANDED KEYWORDS BY ASPECT:
 
 Battery:
   Original (5): baterai, batre, charging, daya, ngecas
-  Expanded (6): baterai, baterainya, batre, charging, daya, ngecas
-  Newly Added (1): baterainya
+  Expanded (11): baterai, baterainya, batere, baterei, baterenya, batre, batrenya, charging, daya, dayanya, ngecas
+  Newly Added (6): baterainya, batere, baterei, baterenya, batrenya, dayanya
 
 Camera:
   Original (5): foto, kamera, potret, selfie, video
-  Expanded (6): foto, kamera, perekaman, potret, selfie, video
-  Newly Added (1): perekaman
+  Expanded (7): foto, kamera, merekam, potret, rekam, selfie, video
+  Newly Added (2): merekam, rekam
 
 Display:
   Original (5): display, layar, refresh, resolusi, screen
-  Expanded (43): amiiin, amoled, antutunya, bangett, breakout, colok, dilengkapi, display, duper, epep, fotonya, gedek, hitam, inch, jenis, last, layar, lebar, lensanya, menawarkan, ...
-  Newly Added (38): amiiin, amoled, antutunya, bangett, breakout, colok, dilengkapi, duper, epep, fotonya, gedek, hitam, inch, jenis, last, lebar, lensanya, menawarkan, menerima, minecraft, move, nilai, perform, saling, sdah, selebihnya, showcase, simcard, sisi, stabilisasi, stabilizer, terbesar, testnya, ukuran, utamanya, vision, xiaominya, zenless
+  Expanded (40): always, amoled, awsome, baterei, battery, delay, display, diupload, everyone, fhd, format, keseluruhan, lasting, layar, life, long, lyr, memperlihatkan, navigasi, off, ...
+  Newly Added (35): always, amoled, awsome, baterei, battery, delay, diupload, everyone, fhd, format, keseluruhan, lasting, life, long, lyr, memperlihatkan, navigasi, off, osem, protector, ramping, rate, render, retak, samoled, speakers, standard, stereo, super, tajem, tanyasamsung, tnt, tompel, uploadnya, virtual
 
 Performance:
   Original (5): cepat, game, lag, lambat, performa
-  Expanded (44): bengkak, bertambah, cam, cepat, coc, cpt, diinginkan, disayangkan, diturunin, durability, fokusnya, gahar, game, hok, iklan², jaringannya, kearah, lag, lahir, lambat, ...
-  Newly Added (39): bengkak, bertambah, cam, coc, cpt, diinginkan, disayangkan, diturunin, durability, fokusnya, gahar, hok, iklan², jaringannya, kearah, lahir, laun, mbanking, melulu, menyebarkan, menyeluruh, merata, moba, mobile, ngabisin, ngatur, ngebut, ngecharge, ngetest, pengisian, penurunan, penyebaran, performanya, ping, roblox, tepatnya, waras, winlator, wkw
+  Expanded (44): alus, apanya, bebas, berat, bonusnya, cepat, chipsetnya, diinginkan, ditungguin, framedrop, game, gaming, gandos, genshin, gold, honkai, impact, karyawan, katakata, lag, ...
+  Newly Added (39): alus, apanya, bebas, berat, bonusnya, chipsetnya, diinginkan, ditungguin, framedrop, gaming, gandos, genshin, gold, honkai, impact, karyawan, katakata, meyakinkan, mobile, most, ngisi, nice, nontonn, nyusul, panik, penyakitnya, perbedaan, pes, prosesornya, signifikan, sky, smg, soc, telephoto, tuner, ujanan, umur, wild, yaallah
 
 Price:
   Original (5): harga, mahal, murah, terjangkau, worth
-  Expanded (7): diharga, harga, harganya, mahal, murah, terjangkau, worth
-  Newly Added (2): diharga, harganya
+  Expanded (6): harga, harganya, mahal, murah, terjangkau, worth
+  Newly Added (1): harganya
 
 Design:
   Original (5): bodi, desain, ringan, tipis, warna
-  Expanded (44): aga, bentuk, berbahan, bodi, bodinya, cakep, coc, depannya, desain, ditanya, diturunin, efektif, enteng, hitam, hsr, ipon, kearah, life, material, maunya, ...
-  Newly Added (39): aga, bentuk, berbahan, bodinya, cakep, coc, depannya, ditanya, diturunin, efektif, enteng, hitam, hsr, ipon, kearah, life, material, maunya, menyebarkan, merata, miliar, model, modelnya, omnivision, pemain, penyebaran, pool, powerfull, premium, putih, putihnya, seadanya, seluruh, sesekali, silver, standarnya, survival, terlihat, white
+  Expanded (43): akui, ampas, banding, barusan, berat, biru, bodi, burik, cowo, desain, design, elegant, flaghsip, gaptek, gasih, gengsi, gensin, gilaaa, hardcore, hiburan, ...
+  Newly Added (38): akui, ampas, banding, barusan, berat, biru, burik, cowo, design, elegant, flaghsip, gaptek, gasih, gengsi, gensin, gilaaa, hardcore, hiburan, hitam, item, kekinian, kelebihan, menjanjikan, nyaris, patah², polos, putih, rapi, romusah, sayangkamu, sektor, selebihnya, sosmed, terbaruwoke, utama, violet, wanna, yaps
 
 Software:
   Original (5): android, aplikasi, software, ui, update
-  Expanded (40): android, apk, aplikasi, apps, bening, bersahabat, bersih, bongsor, cmiiw, custom, dap, dioprek, disayangkan, dns, gratisan, hyper, hyperos, install, jatah, kernel, ...
-  Newly Added (35): apk, apps, bening, bersahabat, bersih, bongsor, cmiiw, custom, dap, dioprek, disayangkan, dns, gratisan, hyper, hyperos, install, jatah, kernel, lag, melalui, merupakan, minim, mosok, off, one, osnya, patch, performnya, porting, rom, security, siaomi, source, system, tema
+  Expanded (26): android, aplikasi, core, diupdate, earphone, gimmick, kedip, kunci, one, oneui, optimalisasi, osnya, piece, security, semenjak, software, tadinya, terbaruwoke, terjamin, tetiba, ...
+  Newly Added (21): core, diupdate, earphone, gimmick, kedip, kunci, one, oneui, optimalisasi, osnya, piece, security, semenjak, tadinya, terbaruwoke, terjamin, tetiba, tulisan, twitter, voice, yutub
 
 Audio:
   Original (5): audio, headphone, speaker, suara, volume
-  Expanded (40): aktifin, ancur, audio, bass, bateri, blok, box, brarti, celah, crosstalk, earphone, engineer, gonta, gratisan, headphone, hidup, ikutan, jack, kelewat, knapa, ...
-  Newly Added (35): aktifin, ancur, bass, bateri, blok, box, brarti, celah, crosstalk, earphone, engineer, gonta, gratisan, hidup, ikutan, jack, kelewat, knapa, lcd, lobang, lubang, maupun, mono, musik, off, pecah, power, seimbang, sound, spiker, stereo, suaranya, tombol, tumben, xperia
+  Expanded (42): alloh, apik, audio, audionya, berlubang, betapagenit, betty, burem, deket, dicatat, dipakein, feedback, fell, gaenak, gws, hay, headphone, hode, kalkulator, ketutup, ...
+  Newly Added (37): alloh, apik, audionya, berlubang, betapagenit, betty, burem, deket, dicatat, dipakein, feedback, fell, gaenak, gws, hay, hode, kalkulator, ketutup, kletek, knpa, kresek, kretek, lubang, mendem, menurun, mkbhd, music, ngapa, port, pucat, record, rekaman, stabilizernya, syg, ulti, vdionya, wowww
 
 Network:
   Original (7): 4g, 5g, dual sim, jaringan, lte, sim, sinyal
-  Expanded (30): 4g, 5g, berbayar, dual sim, fisik, fto, gov, hbs, hdmi, huhu, internet, jaringan, klik, konek, lte, mang, masyarakat, nangkep, pengiriman, sejam, ...
-  Newly Added (23): berbayar, fisik, fto, gov, hbs, hdmi, huhu, internet, klik, konek, mang, masyarakat, nangkep, pengiriman, sejam, settingannya, tangkapan, tempat, tray, trend, tutup, type, war
+  Expanded (38): 4g, 5g, antigoresnya, bar, bulat, card, class, daerah, diglobal, dual sim, gnya, hilang, hybrid, jaringan, kasian, kmn, kuy, lemah, lte, mantulll, ...
+  Newly Added (31): antigoresnya, bar, bulat, card, class, daerah, diglobal, gnya, hilang, hybrid, kasian, kmn, kuy, lemah, mantulll, memory, mengincar, mhl, microsd, nano, nii, penangkapan, rawan, sdah, slot, suport, tempered, termurah, tray, traynya, wifi
 
 Connectivity:
   Original (5): bluetooth, hotspot, nfc, usb, wifi
-  Expanded (37): adek, agresif, bengkok, berati, bluetooth, brandnya, brapa, breakout, carbon, colokan, diablo, display, ethernet, external, far, hotspot, immortal, insyaallah, kedepannya, lawas, ...
-  Newly Added (32): adek, agresif, bengkok, berati, brandnya, brapa, breakout, carbon, colokan, diablo, display, ethernet, external, far, immortal, insyaallah, kedepannya, lawas, maap, mantau, mbak, nnton, otg, pengin, pik, pocophone, sesi, solve, sya, wireles, youtubercupu, zenfone
+  Expanded (45): akibat, apasih, atmos, awok, banjir, berlaku, blokir, bluetooth, bwa, ckup, closed, dikolam, disentuh, dolby, eis, eror, hay, hilang, hode, hotspot, ...
+  Newly Added (40): akibat, apasih, atmos, awok, banjir, berlaku, blokir, bwa, ckup, closed, dikolam, disentuh, dolby, eis, eror, hay, hilang, hode, ilang, juara, kaget, kawal, kesing, khariismaf, lemah, mantau, ngelirik, nyanyi, orangnya, payah, penangkapan, sdah, sinyal, speakers, terawih, tibatiba, tkt, tujuan, usaha, worry
 
 Storage:
   Original (5): internal, memori, penyimpanan, ram, storage
-  Expanded (27): belasan, belon, cipset, eksternal, external, first, gedek, internal, kapasitas, lega, memori, merusak, opsi, penyimpanan, pilihan, port, ram, sebaik, seriusan, sgtu, ...
-  Newly Added (22): belasan, belon, cipset, eksternal, external, first, gedek, kapasitas, lega, merusak, opsi, pilihan, port, sebaik, seriusan, sgtu, sisa, system, tera, terbatas, terpakai, ufs
+  Expanded (25): atmos, baterainya, batrai, bersih, dolby, eksternal, hah, insyallah, internal, jdinya, kartu, kemakan, memori, memorinya, miqbalksindapati, muhammadilhampratama, penyimpanan, ram, rom, sambungan, ...
+  Newly Added (20): atmos, baterainya, batrai, bersih, dolby, eksternal, hah, insyallah, jdinya, kartu, kemakan, memorinya, miqbalksindapati, muhammadilhampratama, rom, sambungan, saudara, sekedar, soalx, tny
 
 Security:
   Original (4): face unlock, fingerprint, keamanan, sidik jari
-  Expanded (12): ahmadyusuf, blotware, cempreng, digenggam, face unlock, fingerprint, garden, keamanan, ketindis, optical, semahal, sidik jari
-  Newly Added (8): ahmadyusuf, blotware, cempreng, digenggam, garden, ketindis, optical, semahal
+  Expanded (12): biaya, cuaca, derajat, face unlock, fingerprint, keamanan, pengaruh, pinggir, polikarbonat, resist, sidik jari, uwuw
+  Newly Added (8): biaya, cuaca, derajat, pengaruh, pinggir, polikarbonat, resist, uwuw
 
 BuildQuality:
   Original (5): frame, kaca, kokoh, material, plastik
-  Expanded (21): backdoor, bahan, berbahan, bodinya, debu, didalam, dinasti, efektif, frame, gabungan, kaca, kokoh, material, metal, metalnya, penyebaran, plastik, rate, samping, sampingnya, ...
-  Newly Added (16): backdoor, bahan, berbahan, bodinya, debu, didalam, dinasti, efektif, gabungan, metal, metalnya, penyebaran, rate, samping, sampingnya, toh
+  Expanded (28): analog, audionya, backdor, belakangnya, belang, blitz, doff, drop, frame, getarannya, gorilla, kaca, kanan, ketuk, kokoh, lebi, material, mikrofonnya, patah², plastik, ...
+  Newly Added (23): analog, audionya, backdor, belakangnya, belang, blitz, doff, drop, getarannya, gorilla, kanan, ketuk, lebi, mikrofonnya, patah², polikarbonat, sayangkamu, setting, tebal, tebel, tool, tulisannya, yaps
 
 Features:
   Original (5): extra, fitur, infrared, nfc, samsung pay
-  Expanded (29): adek, amolednya, bermain, bisalah, burik, bypas, bypass, capcut, chargingnya, digenggam, dilupakan, dipegang, dual, extra, fitur, infrared, insyaallah, keseharian, lawas, mantau, ...
-  Newly Added (24): adek, amolednya, bermain, bisalah, burik, bypas, bypass, capcut, chargingnya, digenggam, dilupakan, dipegang, dual, insyaallah, keseharian, lawas, mantau, mbak, nnton, pengin, pocophone, sya, terpisah, wireles
+  Expanded (21): atmos, berikan, ckup, dex, dolby, eis, extra, fitur, infrared, juara, kawal, kegunaan, kelengkapan, kombinasi, mantau, nfc, samoled, samsung pay, speakers, spesifikasi, ...
+  Newly Added (16): atmos, berikan, ckup, dex, dolby, eis, juara, kawal, kegunaan, kelengkapan, kombinasi, mantau, samoled, speakers, spesifikasi, unggul
 
 
 ============================================================
