@@ -6,7 +6,7 @@ EXECUTIVE SUMMARY: KANO ANALYSIS FOR NEW PRODUCT DEVELOPMENT
 • Critical Issues (Must-Be): 0 features need immediate attention
 • Delight Factors (Attractive): 0 features can differentiate your product
 • Total aspects analyzed: 14
-• Data source: 2298 customer comments
+• Data source: 2513 customer comments
 
 2. TOP 3 PRIORITIES:
 ----------------------------------------
