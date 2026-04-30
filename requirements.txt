@@ -1,7 +1,14 @@
-# Dev environment
-pip
-autopep8
-
-# App
-google-genai # Client library for the Gemini API
-Pillow # PIL image-loading library
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+torchaudio==2.11.0+cu128
+transformers
+pandas
+numpy
+jupyterlab
+ipykernel
+gensim
+matplotlib
+seaborn
+scikit-learn
+emoji
+google-api-python-client
