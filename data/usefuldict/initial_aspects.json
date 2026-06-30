@@ -4,56 +4,71 @@
     "daya",
     "ngecas",
     "charging",
-    "batre"
+    "batre",
+    "awet",
+    "boros"
   ],
   "Camera": [
     "kamera",
     "foto",
     "video",
     "selfie",
-    "potret"
+    "potret",
+    "jernih",
+    "nightography"
   ],
   "Display": [
     "layar",
     "screen",
     "display",
     "resolusi",
-    "refresh"
+    "refresh",
+    "amoled",
+    "hz"
   ],
   "Performance": [
     "performa",
     "cepat",
     "lambat",
     "lag",
-    "game"
+    "game",
+    "exynos",
+    "snapdragon",
+    "chipset"
   ],
   "Price": [
     "harga",
     "mahal",
     "murah",
     "terjangkau",
-    "worth"
+    "worth",
+    "overprice"
   ],
   "Design": [
     "desain",
     "bodi",
     "tipis",
     "ringan",
-    "warna"
+    "warna",
+    "premium",
+    "plastik"
   ],
   "Software": [
     "software",
     "android",
     "update",
     "ui",
-    "aplikasi"
+    "aplikasi",
+    "oneui",
+    "sistem"
   ],
   "Audio": [
     "suara",
     "speaker",
     "audio",
     "headphone",
-    "volume"
+    "volume",
+    "stereo"
   ],
   "Network": [
     "sinyal",
@@ -76,7 +91,8 @@
     "storage",
     "penyimpanan",
     "ram",
-    "internal"
+    "internal",
+    "micro_sd"
   ],
   "Security": [
     "fingerprint",
@@ -89,13 +105,16 @@
     "kaca",
     "plastik",
     "frame",
-    "kokoh"
+    "kokoh",
+    "ip67",
+    "waterproof"
   ],
   "Features": [
     "fitur",
     "nfc",
     "infrared",
     "samsung pay",
-    "extra"
+    "extra",
+    "knox"
   ]
 }
